@@ -111,6 +111,15 @@ CREATE TABLE campaign_posts (
 
 ---
 
+## ✅ Recently Implemented
+
+### WhatsApp Approval Flow (DONE)
+- Campaign images generated via Gemini AI
+- WhatsApp interactive messages with approve/reject buttons
+- Multi-platform posting via Nango OAuth
+
+---
+
 ## 📋 Testing Checklist
 
 Once all blockers are resolved:
